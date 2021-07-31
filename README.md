@@ -46,16 +46,14 @@ Here are some ideas to get you started:
 
 
 -->
-
+<img src=그림주소 width=숫자, height=숫자>
  <p align=center>
  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbf4tRm%2FbtraQasoziA%2FwXKYLOcb1ADuQWrkQgrjK0%2Fimg.jpg"><br>
  <br>
- <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" />
-
-
-<p align=center><b>👋Hello guys</br></b>
-I'm <b>Sophie</b>, new to learn programming!</br>
-Hope this page will be <b>fancier!✨</br></b>
+ <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width=50%, height=50%/>
+<p align=center><br><b>👋Hello guys<br></b><br>
+I'm <b>Sophie</b>, new to learn programming!<br>
+Hope this page will be <b>fancier!✨</b><br><br>
 <p align=center>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbf4tRm%2FbtraQasoziA%2FwXKYLOcb1ADuQWrkQgrjK0%2Fimg.jpg"><br>
 
