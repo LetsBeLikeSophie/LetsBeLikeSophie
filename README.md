@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 I'm <b>Sophie</b>, new to learn programming!<br>
 Hope this page will be <b>fancier!✨</b><br><br>
 <p align=center>
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbf4tRm%2FbtraQasoziA%2FwXKYLOcb1ADuQWrkQgrjK0%2Fimg.jpg"><br>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdSzsPy%2Fbtra1ZwlOhK%2FWJVIYd3NFJUaJELEsybzKk%2Fimg.png"><br>
 
