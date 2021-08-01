@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 -->
  <p align=center>
- <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbf4tRm%2FbtraQasoziA%2FwXKYLOcb1ADuQWrkQgrjK0%2Fimg.jpg"><br>
+ <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbIrcba%2Fbtra10ovaLE%2F4NBdnWOToulrTGNkCWaP30%2Fimg.png"><br>
  <br>
  <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width=20%, height=20%/>
 <p align=center><br><b>👋Hello guys<br></b><br>
