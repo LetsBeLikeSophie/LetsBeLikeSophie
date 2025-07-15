@@ -56,8 +56,8 @@ Hope this page will be <b>fancier✨</b><br><br>
  <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbIrcba%2Fbtra10ovaLE%2F4NBdnWOToulrTGNkCWaP30%2Fimg.png"><br>
  <br>
  <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width=20%, height=20%/>
- <img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=plastic&logo=tableau&logoColor=white" />
- <img src="https://img.shields.io/badge/salesforce-%2300A1E0.svg?&style=plastic&logo=salesforce&logoColor=white" />
+ <img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=flat-square&logo=tableau&logoColor=white" />
+ <img src="https://img.shields.io/badge/salesforce-%2300A1E0.svg?&style=flat-squarelogo=salesforce&logoColor=white" />
 
 
 <p align=center>
