@@ -57,7 +57,7 @@ Hope this page will be <b>fancier✨</b><br><br>
  <br>
  <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width=20%, height=20%/>
  <img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=flat-square&logo=tableau&logoColor=white" />
- <img src="https://img.shields.io/badge/salesforce-%2300A1E0.svg?&style=flat-squarelogo=salesforce&logoColor=white" />
+ <img src="https://img.shields.io/badge/salesforce-%2300A1E0.svg?&style=flat-square&logo=salesforce&logoColor=white" />
 
 
 <p align=center>
