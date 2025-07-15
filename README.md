@@ -44,6 +44,10 @@ Here are some ideas to get you started:
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
 </p>
 
+<p align=center><br><b>👋Hello guys (:</b><br>Sophie's here!<br><br> 
+ I'm new to learn programming.<br>
+Hope this page will be <b>fancier✨</b><br><br>
+
 
 -->
 
@@ -53,9 +57,7 @@ Here are some ideas to get you started:
  <br>
  <img src="https://media.giphy.com/media/wvQIqJyNBOCjK/giphy.gif" width=20%, height=20%/>
 
-<p align=center><br><b>👋Hello guys (:</b><br>Sophie's here!<br><br> 
- I'm new to learn programming.<br>
-Hope this page will be <b>fancier✨</b><br><br>
+
 <p align=center>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdSzsPy%2Fbtra1ZwlOhK%2FWJVIYd3NFJUaJELEsybzKk%2Fimg.png"><br>
 
