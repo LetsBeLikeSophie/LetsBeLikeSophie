@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 -->
 </p>
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/2b/0f/ae/2b0fae05f705e53c08d4a030b0ef4e48.jpg" alt="되는거 해라">
+  <img src="https://i.pinimg.com/1200x/d9/b5/6c/d9b56cb1998d03dca216bd36df94900d.jpg" alt="어쩌겠어 해내야지">
 </div>
