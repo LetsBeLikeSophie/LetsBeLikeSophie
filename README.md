@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 👋Hello guys, Sophie's✨ here!😄
 
 
--->
+
 
 ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆
 
@@ -31,5 +31,8 @@ Here are some ideas to get you started:
 　| (￣ヽ＿_ヽ_)__)
 　＼二つ
 
-
+-->
 </p>
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/5e/6c/a3/5e6ca325555de05ef556c7fec55224d1.jpg" alt="이미지 설명">
+</div>
