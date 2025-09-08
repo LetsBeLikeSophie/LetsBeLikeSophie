@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 -->
 </p>
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/5e/6c/a3/5e6ca325555de05ef556c7fec55224d1.jpg" alt="이미지 설명">
+  <img src="https://i.pinimg.com/1200x/2b/0f/ae/2b0fae05f705e53c08d4a030b0ef4e48.jpg" alt="되는거 해라">
 </div>
