@@ -1,16 +1,18 @@
-### 안녕하세요, Sophie입니다 👋
+### Hi, I'm Sophie 👋
 
-Spring Boot · Python으로 백엔드를 만들고, React · Flutter로 클라이언트까지 이어 붙이는 백엔드/풀스택 지향 개발자입니다.
+I work across Arduino, web development, BI, and data engineering. These days I'm building a lot with Claude, which has gotten noticeably smarter lately, and most of my projects come out of that collaboration.
 
-🔗 **포트폴리오** — [itssophie.dev](https://itssophie.dev)
+🔗 **Portfolio** — [itssophie.dev](https://itssophie.dev)
+📮 **Contact** — [hello@itssophie.dev](mailto:hello@itssophie.dev)
 
-#### 주요 프로젝트
+#### Featured Projects
 
-- **[TableLink](https://github.com/LetsBeLikeSophie/TableLink)** — 테이블을 자동으로 탐지하고 조인 경로를 스스로 찾아 조건만으로 고객 세그먼트를 뽑아내는 도구 (Spring Boot · React · PostgreSQL, Row-Level Security로 유저·국가별 데이터 격리)
-- **[issue-pop](https://github.com/LetsBeLikeSophie/issue-pop)** — 여러 매체의 RSS를 모아 오늘 많이 보도된 이슈를 클러스터링해 보여주는 뉴스 트렌드 앱 (Python/FastAPI 백엔드 · Flutter 클라이언트, 한국어 문장 임베딩 기반 클러스터링)
+- **[TableLink](https://github.com/LetsBeLikeSophie/TableLink)** — A tool that automatically discovers tables, finds join paths on its own, and builds customer segments from just a few conditions (Spring Boot · React · PostgreSQL, with Row-Level Security isolating data by user and country)
+- **[issue-pop](https://github.com/LetsBeLikeSophie/issue-pop)** — A news trend app that collects RSS feeds from multiple outlets and clusters the most-covered stories of the day (Python/FastAPI backend · Flutter client, clustering based on Korean sentence embeddings)
 
-#### 기술 스택
+#### Tech Stack
 
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -18,3 +20,4 @@ Spring Boot · Python으로 백엔드를 만들고, React · Flutter로 클라�
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
